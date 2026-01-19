@@ -1,2 +1,1 @@
-# No.1OBJ
-No.1OBJ
+This is my first personal test
