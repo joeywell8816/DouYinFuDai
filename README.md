@@ -9,7 +9,8 @@
 7、中文界面，操作简单直观，不提供使用教学，功能更新与优化视个人时间与精力而定。
 
 <img width="1909" height="852" alt="图片" src="https://github.com/user-attachments/assets/79439eea-9dc8-439e-83ef-f5e0e5c32a67" />
-<img width="1907" height="853" alt="图片" src="https://github.com/user-attachments/assets/d6917217-fc6a-4c91-bbde-69b4c9c9e26c" />
+<img width="1909" height="856" alt="图片" src="https://github.com/user-attachments/assets/eec54892-6338-49fd-86d7-afd0556312ee" />
+
 
 授权与使用免责声明
 
