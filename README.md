@@ -1,23 +1,95 @@
-Douyin Lucky Bag Participation Tool
+抖音福袋 永久免费 
+1、闲来无事做的软件,看得上眼，就给颗星吧。
+2、支持比特浏览器，
+3、支持分组(跑一天休两天)
+4、单机登录账号无上限(建议20至40个号)
+5、采集端和领取端运行在同一台电脑上
+6、py写的,启动有些慢。
+7、中文界面,傻瓜式操作,本人不负责教学,看心情优化更新。
 
-This software is provided free of charge.
-It is intended for learning, communication, and personal interest only.
+<img width="1909" height="852" alt="图片" src="https://github.com/user-attachments/assets/79439eea-9dc8-439e-83ef-f5e0e5c32a67" />
+<img width="1907" height="853" alt="图片" src="https://github.com/user-attachments/assets/d6917217-fc6a-4c91-bbde-69b4c9c9e26c" />
 
-Any ideas, feedback, or suggestions are welcome and appreciated.
+授权与使用免责声明
 
-This software must not be used for any illegal activities.
+本软件免费提供，不附带任何形式的明示或暗示担保。
 
-Thank you for your support.
+本软件仅限用于学习、研究、技术交流及个人兴趣用途。
 
-抖音福袋参与工具
+使用本软件即表示您已阅读、理解并同意以下条款：
 
-本软件免费提供。
-仅用于学习、交流及个人兴趣用途。
+您需对本软件的使用行为自行承担全部责任
 
-欢迎并感谢任何想法、反馈或建议。
+您需自行承担因使用本软件所产生的一切风险
 
-本软件严禁用于任何非法用途。
+因使用本软件导致的任何直接或间接损失，包括但不限于账号封禁、数据丢失、经济损失或法律后果，开发者概不承担任何责任
 
-感谢您的支持。
+🚫 严禁用途
 
-TG：https://t.me/+xVeuS-nZjWw2ZDNl
+任何违法行为
+
+任何违反相关法律法规、平台服务条款或第三方权益的行为
+
+任何形式的商业滥用、恶意自动化或不当使用
+
+开发者保留随时修改、暂停或终止本软件的权利，恕不另行通知。
+
+反馈与交流
+
+欢迎并感谢任何想法、反馈与建设性建议。
+
+交流社区（Telegram）：
+👉 https://t.me/+xVeuS-nZjWw2ZDNl
+
+
+Douyin Lucky Bag Automation Tool
+
+Free & Open for Learning Purposes
+
+Features
+
+Compatible with Bit Browser
+
+Supports account grouping strategies
+(e.g., run for one day, pause for two days)
+
+Unlimited accounts per machine
+(recommended: 20–40 accounts for stability)
+
+The data collection module and claiming module run on the same computer
+
+Developed in Python; initial startup may be relatively slow
+
+Chinese user interface, designed for simple and intuitive operation
+(No user training or usage guidance is provided. Feature updates and optimizations are performed at the developer’s discretion.)
+
+License & Usage Disclaimer
+
+This software is provided free of charge and without any warranty, either express or implied.
+
+It is intended exclusively for educational, research, technical exchange, and personal interest purposes.
+
+By using this software, you acknowledge and agree that:
+
+You are solely responsible for how you use this software
+
+You assume all risks associated with its usage
+
+The developer shall not be held liable for any direct or indirect losses, damages, account penalties, data loss, or legal consequences arising from its use
+
+🚫 Strictly Prohibited Uses
+
+Any illegal activities
+
+Any actions that violate applicable laws, regulations, platform terms of service, or third-party rights
+
+Any form of commercial abuse, malicious automation, or misuse
+
+The developer reserves the right to modify, suspend, or discontinue the software at any time without prior notice.
+
+Feedback & Contributions
+
+Ideas, feedback, and constructive suggestions are welcome and appreciated.
+
+Community & Discussion (Telegram):
+👉 https://t.me/+xVeuS-nZjWw2ZDNl
